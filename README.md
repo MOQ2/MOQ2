@@ -1,4 +1,4 @@
-# Hi, I'm [Your Full Name]! 👋
+# Hi, I'm Mohammed Qady ! 👋
 
 A passionate and aspiring Backend Developer currently pursuing a Bachelor of Science in Computer Engineering with a minor in Accounting at Birzeit University (Expected Graduation: February 2026).
 
@@ -32,13 +32,13 @@ I'm eager to apply my strong foundation in backend development, database design,
 
 Here are a few projects I've worked on:
 
-**[QUILLTZ - Project Management System](Link to your QuillTZ repository if public)**
+**[QUILLTZ - Project Management System](https://github.com/MOQ2/QuillTZ)**
 A full-stack web application built with Python Flask for managing projects, employees, and clients. Key features include user authentication, project tracking, file management, and reporting using SQL queries.
 
-**[Transportation Management System with Facebook Integration](Link to your TMS repository if public)**
+**[Transportation Management System with Facebook Integration](https://github.com/MOQ2/Transportation-system-integrated-with-facebook-page)**
 A web application using Flask that integrates with the Facebook Graph API to schedule ride announcements and collect passenger information.
 
-**[Exam Making Website (Under Development)](Link to your Exam Website repository if public)**
+**Exam Making Website (Under Development)**
 A Flask-based website that allows users to upload PDF exams, extracts questions using PyPDF and OCR, performs spell checking, and enables users to create custom exams.
 
 ## Education
