@@ -64,5 +64,5 @@ Database Systems | Computer Networks | Data Structures and Algorithms | Object-O
 ## Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/mohammed-o-qady)
-[![GitHub](https://img.shields.io/badge/-GitHub-%23242929?style=for-the-badge&logo=github&logoColor=white)]([Your GitHub Profile URL](https://github.com/MOQ2))
+[![GitHub](https://img.shields.io/badge/-GitHub-%23242929?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MOQ2))
 [![Email](https://img.shields.io/badge/-Email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mohammedoqady@gmail.com)
