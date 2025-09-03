@@ -16,7 +16,7 @@
 
 > **Passionate AI/ML Engineer** and **Computer Engineering Student** at Birzeit University with a specialized focus on **Artificial Intelligence**, **Machine Learning**, and **Generative AI technologies**.
 
-- 🎓 **Computer Engineering** at Birzeit University (GPA: 88) | Expected Graduation: **February 2026**
+- 🎓 **Computer Engineering** at Birzeit University 
 - 🧮 **Minor in Accounting** - Bringing analytical thinking to technical solutions
 - 🤖 Currently deep-diving into **LLMs**, **RAG Systems**, and **Agentic AI**
 - 🏗️ Building end-to-end AI solutions with modern frameworks
