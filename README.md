@@ -143,7 +143,7 @@ const projectHighlights = {
 
 ### **🏫 Birzeit University** | *Palestine*
 **Bachelor of Science in Computer Engineering** | **Minor in Accounting**  
-**GPA: 88** | **Expected Graduation: February 2026**
+
 
 **📚 Relevant Coursework:**
 - Artificial Intelligence & Machine Learning
