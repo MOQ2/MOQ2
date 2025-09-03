@@ -115,8 +115,8 @@ const projectHighlights = {
 
 ---
 
-### 🗂️ **QUILLTZ - AI-Enhanced Project Management**
-*Full-Stack Project Management with Intelligent Features*
+### 🗂️ **QUILLTZ - Project Management**
+*Full-Stack Project Management *
 
 - **🔐 Authentication & Authorization** - Secure user management system
 - **📊 Advanced Analytics** - SQL-based reporting and insights  
