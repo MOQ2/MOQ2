@@ -96,13 +96,13 @@ const platformArchitecture = {
 
 **Core Features:**
 - **📚 Learning Experience** - Full course lifecycle with modules, lessons, video streaming via S3, quizzes & assessments, progress tracking
-- **💳 Commerce & Payments** - One-time purchases, recurring subscriptions (1/3/6 month plans), Stripe integration, promotion codes
+- **💳 Commerce & Payments** - One-time purchases, recurring subscriptions (1/3/6 month plans), promotion codes
 - **🤖 AI Assistant** - RAG-powered chatbot using LangChain + Gemini for course recommendations and Q&A with pgvector embeddings
 - **🎬 Media Management** - AWS S3 video storage, pre-signed URLs, HLS playback, multipart uploads
 - **🔐 Security & Access Control** - Spring Security with JWT, role-based authorization, course entitlement management
 - **📱 Responsive UI** - Angular Material + Bootstrap, learner & admin dashboards, toast notifications
 
-**🔧 Tech Stack:** `Spring Boot` `Angular` `FastAPI` `PostgreSQL` `pgvector` `LangChain` `Google Gemini` `AWS S3` `Stripe` `Docker` `Testcontainers` `Flyway`
+**🔧 Tech Stack:** `Spring Boot` `Angular` `FastAPI` `PostgreSQL` `pgvector` `LangChain` `Google Gemini` `AWS S3` `Docker`  `Flyway`
 
 **Architecture Highlights:**
 - Spring Boot monolith with separate FastAPI RAG service for AI capabilities
